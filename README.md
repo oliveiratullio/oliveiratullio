@@ -17,7 +17,7 @@ Foi assim que descobri a paixão e a satisfação profissional de ver as linhas 
 
 🔍 Minha perspectiva única, misturando minha formação em Engenharia Mecânica com meu amor pelo Desenvolvimento Web, me coloca em um lugar singular no mundo dos desenvolvedores.
 
-🤝 Se você está em busca de alguém que combine paixão pelo código, habilidades técnicas sólidas e uma abordagem colaborativa, estou aqui para ajudar. Vamos nos conectar e explorar como posso contribuir para o seu próximo projeto.
+🤝 Se você está em busca de alguém que combine paixão pelo código, habilidades técnicas sólidas e uma abordagem colaborativa, estou aqui para ajudar. Vamos nos conectar e explorar como posso contribuir para o seu próximo projeto. 
 
 ### Linguagens e Ferramentas
 
