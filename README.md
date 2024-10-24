@@ -1,9 +1,6 @@
 👋 Olá, sou Túllio Oliveira. 
 
-Vindo diretamente da Engenharia Mecânica, tive meu primeiro contato com a programação ainda na faculdade.
-Apesar de ter tido apenas uma visão básica na graduação, essa primeira experiência despertou a curiosidade e a vontade de aprofundar meus conhecimentos e por isso iniciei minha busca por conhecimento teórico e prático.
-Foi assim que descobri a paixão e a satisfação profissional de ver as linhas de código tomando forma e se transformando em aplicações completas.
-
+Vindo diretamente da Engenharia Mecânica, tive meu primeiro contato com a programação ainda na faculdade. Apesar de ter tido apenas uma visão básica na graduação, essa primeira experiência despertou a curiosidade e a vontade de aprofundar meus conhecimentos e por isso iniciei minha busca por conhecimento teórico e prático. Foi assim que descobri a paixão e a satisfação profissional de ver as linhas de código tomando forma e se transformando em aplicações completas.
 
 💻 Desenvolvedor Web apaixonado por transformar conceitos em realidade através do código. 
 
@@ -43,14 +40,16 @@ Foi assim que descobri a paixão e a satisfação profissional de ver as linhas 
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="40"></td>
     <td align="center"><img src="https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="40"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="40"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-tRPC-DC9B60?style=for-the-badge&logo=trpc&logoColor=black" height="40"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="40"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Vitest-6E55FE?style=for-the-badge&logo=vitest&logoColor=white" height="40"></td>
     <td align="center"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"></td>
   </tr>
 </table>
 
-
-
-
 ### Contato
 
 📧 E-mail: [oliveiratulliof@gmail.com](mailto:oliveiratulliof@gmail.com)
-
