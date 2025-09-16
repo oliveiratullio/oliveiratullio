@@ -49,6 +49,10 @@ Vindo diretamente da Engenharia Mecânica, tive meu primeiro contato com a progr
     <td align="center"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"></td>
   </tr>
 </table>
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
 
 ### Contato
 
