@@ -53,7 +53,7 @@ Vindo diretamente da Engenharia Mecânica, tive meu primeiro contato com a progr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratullio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratullio&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=oliveiratullio&theme=radical)
 
 ### Contato
 
