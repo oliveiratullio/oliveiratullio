@@ -51,8 +51,8 @@ Vindo diretamente da Engenharia Mecânica, tive meu primeiro contato com a progr
 </table>
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiratullio&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiratullio&layout=compact&theme=radical)
 
 ### Contato
 
